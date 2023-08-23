@@ -1,5 +1,5 @@
 {
-  "name": "understanding-typescript",
+  "name": "select_and_share_place",
   "version": "1.0.0",
   "description": "Understanding TypeScript Course Setup",
   "main": "app.js",
@@ -13,14 +13,10 @@
   ],
   "author": "Francisco Bejarano",
   "license": "ISC",
-  "devDependencies": {
-    "@types/lodash": "^4.14.197"
-  },
   "dependencies": {
-    "class-transformer": "^0.5.1",
-    "class-validator": "^0.14.0",
-    "lodash": "^4.17.21",
-    "reflect-metadata": "^0.1.13",
+    "axios": "^1.4.0"
+  },
+  "devDependencies": {
     "ts-loader": "^9.4.4",
     "typescript": "^5.1.6",
     "webpack": "^5.88.2",
